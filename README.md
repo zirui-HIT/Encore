@@ -5,7 +5,7 @@ This repository contains code for the ACL2024 paper ["Enhancing Numerical Reason
 If you use Encore in your work, please cite it as follows:
 ```
 @inproceedings{
-anonymous2024enhancing,
+wang2024enhancing,
 title={Enhancing Numerical Reasoning with the Guidance of Reliable Reasoning Processes},
 author={Dingzirui Wang and Longxu Dou and Xuanliang Zhang and Qingfu Zhu and Wanxiang Che},
 booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
